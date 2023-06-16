@@ -1,0 +1,46 @@
+
+body{ 
+    background-color: black;
+}
+    .edit{
+        white-space: 100px;
+        text-shadow: purple;
+        font-family: Comic snas mc;
+        font-size: 60px;
+        color: red;
+    }
+.goofy{
+
+    
+}
+.bigtxt{
+    color:sandybrown;
+    font-size: 90px;
+    margin-top: 0px;
+    white-space: 10px;
+}
+.smalltxt{
+    color:rgb(10,70,70);
+    font-size: 50px;
+    margin-top: 0px;
+    white-space: 0px;
+}
+.bigtxt.smalltxt{
+    color:palevioletred;
+    
+}
+
+div p{
+    color:orangered;
+    font-size: 20px;
+
+}
+.txt{
+    color: ghostwhite;
+    font-size: 17px;
+}
+.change{
+    color:mediumspringgreen;
+    font-size: 50px;
+}
+
