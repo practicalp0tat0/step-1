@@ -1,0 +1,73 @@
+.xxl{
+    color:rgb(224, 4, 4);
+    font-size: 60px;
+}
+body{
+    background-color: darkgray;
+}
+.intro{
+    margin-left: 50px;
+    margin-bottom: 40px;
+}
+.sup{
+    
+    
+}
+
+.uper{
+    text-transform: uppercase;
+    font-size: 30px;
+    color:rgba(255, 68, 0, 0.801);
+    font-weight: 900;
+}
+
+
+.F{
+    text-transform: uppercase;
+    font-size: 50px;
+    color:blueviolet
+
+}
+#13{
+    color: brown;
+    margin-top: 10px;
+    white-space: 10px;
+}
+
+#11{
+
+}
+.dis{
+
+    margin-top: 10px;
+    margin-left: 20px;
+}
+.mi{
+    text-transform: uppercase;
+   
+    color:black;
+    font-weight: 900;
+    
+}
+
+.make{
+    text-align-last:inherit;
+    
+    font-weight: 900;
+}
+
+.fot{
+
+}
+.con{
+    width: 200px;
+    height: 200px;
+    color: #C6BF01;
+
+}
+
+.phototext{
+    margin-top: 20px;
+    margin-left:80px;
+    font-size: 40px;
+}
