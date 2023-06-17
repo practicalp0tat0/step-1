@@ -1,9 +1,103 @@
+html{
+    font-family: BD Cartoon Shout ,Arial, Helvetica, sans-serif;
+    
+}
+aside{
+    background-color: darkgray;
+    padding: 4% 2%;
+    
+}
+
+p{
+    margin: 3% 4%;
+}
+
+footer{
+    padding: 3% 0%;
+    background-color: rgba(207, 0, 0, 0.668);
+    padding: 3% 3%;
+}
+
+table{
+    margin: 3% 3%;
+    white-space: auto;
+
+}
+
+body img{
+    
+    border-radius: 111110px;
+    border-style: solid;
+    border-color: black;
+    border-width: 2px;
+
+}
+ol{
+    margin: 3% 30px;
+}
+
+
 .xxl{
     color:rgb(224, 4, 4);
-    font-size: 60px;
+    font-size: 40px;
 }
+header{
+    background-color: black;
+    text-align: center;
+    padding-top: 25px;
+    padding-bottom: 5px;
+    
+
+}
+main{
+    padding-bottom: 2%;
+    padding-top: 2%;
+     background-color: rgb(235, 200, 7);
+    
+}
+
+.mid img{
+    text-align: center;
+}
+
+main td{
+    text-align: center;
+    margin: 15px;
+    padding: 10px;
+    
+}
+
+/*
+animation
+and this is a comment
+
+main profile imege/ profile photo
+*/
+header img{
+    transition-duration: 1s;
+    block-size: 450px;
+    border-style:solid;
+    border-color:#BADA22;
+    border-width: 10px;
+    border-radius: 500px;
+    
+}
+header img:hover{
+    transition-delay:0.5s;
+    transition-duration: 1s;
+    border-color:#da3722;
+    border-width: 20px;
+    
+}
+
+
+
+
+
 body{
     background-color: darkgray;
+    background;
+    margin: 0;
 }
 .intro{
     margin-left: 50px;
@@ -16,15 +110,16 @@ body{
 
 .uper{
     text-transform: uppercase;
-    font-size: 30px;
-    color:rgba(255, 68, 0, 0.801);
+    font-size: 25px;
+    color:rgba(204, 57, 4, 0.801);
     font-weight: 900;
+    margin: 5% 4%;
 }
 
 
 .F{
     text-transform: uppercase;
-    font-size: 50px;
+    font-size: 30px;
     color:blueviolet
 
 }
@@ -32,6 +127,7 @@ body{
     color: brown;
     margin-top: 10px;
     white-space: 10px;
+    
 }
 
 #11{
@@ -44,6 +140,7 @@ body{
 }
 .mi{
     text-transform: uppercase;
+    margin: 3% 0%;
    
     color:black;
     font-weight: 900;
@@ -51,7 +148,7 @@ body{
 }
 
 .make{
-    text-align-last:inherit;
+    
     
     font-weight: 900;
 }
@@ -69,5 +166,5 @@ body{
 .phototext{
     margin-top: 20px;
     margin-left:80px;
-    font-size: 40px;
+    font-size: 30px;
 }
